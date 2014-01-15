@@ -6,10 +6,38 @@
 <script type="text/javascript" src="d3/d3.v3.js"></script>
 <style type="text/css">
 
-	circle {
+	#chart {
+  		margin-left: -40px;
+  		height: 506px;
+  	}
+  		
+	body {
+		background-color: white;
+	}
+
+	p {
+		font-family: sans-serif;
+		font-size: 11px;
+	}
+
+	div {
+		background-color: white;
+		text-align: center;
+		width: 60px;                  
+  		height: 28px;                 
+  		padding: 2px;             
+  		font-size: 12px; 
+  		font-family: sans-serif;  
+	}
+
+	.chart {
+		background-color: lightsteelblue;
+	}
+
+	.circle {
 		stroke: black;
 		stroke-width:0.5px;
-		fill: blue;
+		fill: gray;
 		opacity: 0.2;
 	}
 
@@ -26,10 +54,10 @@
 <script type="text/javascript">
 
 
-d3.json("test.json", function (data) {
+d3.json("../data/test.json", function (data) {
 
 	//dimensions
-	var width = 900,
+	var width = 800,
 		height =  500,
 		padding = 100;
 
@@ -39,7 +67,7 @@ d3.json("test.json", function (data) {
 	 				return d.rank;
 	 			})])
 	 			.clamp(true)
-	 			.range([1000 - padding, 0 + padding]);
+	 			.range([1000 - padding * 2, 0 + 50]);
 
 	var yScale = d3.scale.linear()
 	 			.domain([0, d3.max(data, function(d) {
@@ -60,6 +88,10 @@ d3.json("test.json", function (data) {
 		.attr("width", width)
 		.attr("height", height)
 		.attr("transform", "translate(0," + (height - padding) + ")")
+		.attr("class", "chart");
+
+	//add div for mouseover
+	var div = d3.select("body").append("div")
 
 
 	svg.selectAll("circle")
@@ -75,6 +107,14 @@ d3.json("test.json", function (data) {
 			})
 			.attr('r', function(d) {
 				return d.count / 3;
+			})
+			.on("mouseover", function(d) {
+				div.transition()
+					.duration(200)
+					.style("opacity", .9)
+				div.text("Count: " + d.count)
+					.style("left", (d3.event.pageX) + "px")     
+                	.style("top", (d3.event.pageY - 28) + "px")
 			});
 
 	svg.selectAll("text")
@@ -99,4 +139,8 @@ d3.json("test.json", function (data) {
 });
 
 </script>
+<body>
+<p id="#chart"></p>
+<p>This chart displays the top-10 names chose for African-American female babies in New York City in 2009</p>
+</body>
 </html>
