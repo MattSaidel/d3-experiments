@@ -1,0 +1,636 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "7vcw-nwnp",
+      "name" : "2009 birth names (Female Black Non Hispanic)",
+      "attribution" : "Department of Health and Mental Hygiene (DOHMH)",
+      "averageRating" : 0,
+      "category" : "Health",
+      "createdAt" : 1317921828,
+      "description" : "Popular NYC birth names sorted by sex and ethnicity",
+      "displayType" : "table",
+      "downloadCount" : 60,
+      "indexUpdatedAt" : 1382216837,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 341096,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1317921972,
+      "publicationGroup" : 243480,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1317921957,
+      "rowsUpdatedBy" : "txun-eb7e",
+      "tableId" : 243483,
+      "totalTimesRated" : 0,
+      "viewCount" : 739,
+      "viewLastModified" : 1360605414,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 2968159,
+        "name" : "Year of birth",
+        "dataTypeName" : "number",
+        "fieldName" : "year_of_birth",
+        "position" : 2,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1556361,
+        "width" : 256,
+        "cachedContents" : {
+          "non_null" : 185,
+          "smallest" : "2009",
+          "sum" : "371665",
+          "null" : 0,
+          "average" : "2009",
+          "largest" : "2009",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2009"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "true"
+        }
+      }, {
+        "id" : 2968160,
+        "name" : "GENDER",
+        "dataTypeName" : "text",
+        "fieldName" : "gender",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1556363,
+        "width" : 172,
+        "cachedContents" : {
+          "non_null" : 185,
+          "smallest" : "FEMALE",
+          "null" : 0,
+          "largest" : "FEMALE",
+          "top" : [ {
+            "count" : 20,
+            "item" : "FEMALE"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 2968161,
+        "name" : "ETHNICITY",
+        "dataTypeName" : "text",
+        "fieldName" : "ethnicity",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1556365,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 185,
+          "smallest" : "BLACK NON HISPANIC",
+          "null" : 0,
+          "largest" : "BLACK NON HISPANIC",
+          "top" : [ {
+            "count" : 20,
+            "item" : "BLACK NON HISPANIC"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 2968162,
+        "name" : "CHILD FIRST NAME",
+        "dataTypeName" : "text",
+        "fieldName" : "child_first_name",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1556367,
+        "width" : 292,
+        "cachedContents" : {
+          "non_null" : 185,
+          "smallest" : "AALIYAH",
+          "null" : 0,
+          "largest" : "ZOEY",
+          "top" : [ {
+            "count" : 20,
+            "item" : "MCKENZIE"
+          }, {
+            "count" : 19,
+            "item" : "RACHEL"
+          }, {
+            "count" : 18,
+            "item" : "SAMARA"
+          }, {
+            "count" : 17,
+            "item" : "SHAYLA"
+          }, {
+            "count" : 16,
+            "item" : "SIDNEY"
+          }, {
+            "count" : 15,
+            "item" : "ZANIYAH"
+          }, {
+            "count" : 14,
+            "item" : "ALEXA"
+          }, {
+            "count" : 13,
+            "item" : "AYANNA"
+          }, {
+            "count" : 12,
+            "item" : "CHEYENNE"
+          }, {
+            "count" : 11,
+            "item" : "GLORIA"
+          }, {
+            "count" : 10,
+            "item" : "ISIS"
+          }, {
+            "count" : 9,
+            "item" : "JOHANNA"
+          }, {
+            "count" : 8,
+            "item" : "KELSEY"
+          }, {
+            "count" : 7,
+            "item" : "KENYA"
+          }, {
+            "count" : 6,
+            "item" : "MALEAH"
+          }, {
+            "count" : 5,
+            "item" : "MARLEY"
+          }, {
+            "count" : 4,
+            "item" : "SAGE"
+          }, {
+            "count" : 3,
+            "item" : "SARIAH"
+          }, {
+            "count" : 2,
+            "item" : "TATIANA"
+          }, {
+            "count" : 1,
+            "item" : "TIARA"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 2968163,
+        "name" : "COUNT",
+        "dataTypeName" : "number",
+        "fieldName" : "count",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1556369,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 185,
+          "smallest" : "10",
+          "sum" : "4481",
+          "null" : 0,
+          "average" : "24.22162162162162",
+          "largest" : "188",
+          "top" : [ {
+            "count" : 20,
+            "item" : "54"
+          }, {
+            "count" : 19,
+            "item" : "51"
+          }, {
+            "count" : 18,
+            "item" : "48"
+          }, {
+            "count" : 17,
+            "item" : "43"
+          }, {
+            "count" : 16,
+            "item" : "40"
+          }, {
+            "count" : 15,
+            "item" : "39"
+          }, {
+            "count" : 14,
+            "item" : "36"
+          }, {
+            "count" : 13,
+            "item" : "35"
+          }, {
+            "count" : 12,
+            "item" : "34"
+          }, {
+            "count" : 11,
+            "item" : "31"
+          }, {
+            "count" : 10,
+            "item" : "29"
+          }, {
+            "count" : 9,
+            "item" : "28"
+          }, {
+            "count" : 8,
+            "item" : "27"
+          }, {
+            "count" : 7,
+            "item" : "26"
+          }, {
+            "count" : 6,
+            "item" : "25"
+          }, {
+            "count" : 5,
+            "item" : "24"
+          }, {
+            "count" : 4,
+            "item" : "23"
+          }, {
+            "count" : 3,
+            "item" : "22"
+          }, {
+            "count" : 2,
+            "item" : "21"
+          }, {
+            "count" : 1,
+            "item" : "20"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 2968164,
+        "name" : "RANK",
+        "dataTypeName" : "number",
+        "fieldName" : "rank",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1556372,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 185,
+          "smallest" : "1",
+          "sum" : "6777",
+          "null" : 0,
+          "average" : "36.63243243243243",
+          "largest" : "49",
+          "top" : [ {
+            "count" : 20,
+            "item" : "9"
+          }, {
+            "count" : 19,
+            "item" : "12"
+          }, {
+            "count" : 18,
+            "item" : "14"
+          }, {
+            "count" : 17,
+            "item" : "19"
+          }, {
+            "count" : 16,
+            "item" : "21"
+          }, {
+            "count" : 15,
+            "item" : "22"
+          }, {
+            "count" : 14,
+            "item" : "24"
+          }, {
+            "count" : 13,
+            "item" : "25"
+          }, {
+            "count" : 12,
+            "item" : "26"
+          }, {
+            "count" : 11,
+            "item" : "28"
+          }, {
+            "count" : 10,
+            "item" : "30"
+          }, {
+            "count" : 9,
+            "item" : "31"
+          }, {
+            "count" : 8,
+            "item" : "32"
+          }, {
+            "count" : 7,
+            "item" : "33"
+          }, {
+            "count" : 6,
+            "item" : "34"
+          }, {
+            "count" : 5,
+            "item" : "35"
+          }, {
+            "count" : 4,
+            "item" : "36"
+          }, {
+            "count" : 3,
+            "item" : "37"
+          }, {
+            "count" : 2,
+            "item" : "38"
+          }, {
+            "count" : 1,
+            "item" : "39"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Update" : {
+            "Update Frequency" : "As needed"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "txun-eb7e",
+        "displayName" : "Albert Webber",
+        "roleName" : "administrator",
+        "screenName" : "Albert Webber",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "txun-eb7e",
+        "displayName" : "Albert Webber",
+        "roleName" : "administrator",
+        "screenName" : "Albert Webber",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "tags" : [ "health", "popular", "names", "black", "african-american", "non hispanic", "2009", "female" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "23962C7B-630E-427E-85A2-080B3B98AABE", 1, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "MADISON", "188", "1" ]
+, [ 2, "893C2D3C-81F4-4646-971F-226AD59A84FB", 2, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "KAYLA", "97", "2" ]
+, [ 3, "D841240A-2799-416F-8A8C-922C49470CD3", 3, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "NEVAEH", "79", "3" ]
+, [ 4, "20F26E98-09C7-4DC7-9B25-B0D6D56BA784", 4, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "JADA", "73", "4" ]
+, [ 5, "5D136F4A-B2E8-4C4E-AFB3-31E39FAFA840", 5, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "MALIA", "71", "5" ]
+, [ 6, "4E41BFD7-F74E-4EE8-B545-7D57DE099720", 6, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "MAKAYLA", "70", "6" ]
+, [ 7, "4C9D7B3B-81B7-4AC0-BBF7-4B1F9D7320EA", 7, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "AALIYAH", "65", "7" ]
+, [ 8, "CF63A550-6532-4A29-B3D4-11FD2415492C", 8, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "LONDON", "63", "8" ]
+, [ 9, "52541C83-5B9F-4317-81EA-332D5E3CD6B3", 9, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "ARIANNA", "54", "9" ]
+, [ 10, "DDF71289-75FA-42B8-B75B-E1B25345D191", 10, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "BRIANNA", "54", "9" ]
+, [ 11, "DDAB76A3-A81C-483C-A890-640D0FF0D658", 11, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "DESTINY", "53", "10" ]
+, [ 12, "B10CEAA7-B046-464B-97F3-36E225444A05", 12, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "OLIVIA", "52", "11" ]
+, [ 13, "8B7ACD3E-3F05-4F80-9724-933CDC6C033A", 13, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "CHLOE", "51", "12" ]
+, [ 14, "A3CA6B72-E287-4548-8E8D-DB4C046C5AC8", 14, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "TAYLOR", "51", "12" ]
+, [ 15, "7F81F931-8BB1-49D5-B32A-1153DCA23D41", 15, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "LAILA", "49", "13" ]
+, [ 16, "E0275C24-B473-4277-A4BA-DA2E959E2BBC", 16, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "ALYSSA", "48", "14" ]
+, [ 17, "5ED99C78-4F31-4A11-AC4C-94AB4ED1D805", 17, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "GABRIELLE", "48", "14" ]
+, [ 18, "49E44124-D836-43F8-B00B-B2CF3EAC2F9C", 18, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "FATOUMATA", "47", "15" ]
+, [ 19, "36D0ADA5-9EE9-4549-BBB0-1498BE1CA49E", 19, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "JAYLA", "46", "16" ]
+, [ 20, "7369DB82-42EF-4402-9F7D-2967F418CEAB", 20, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "NIA", "45", "17" ]
+, [ 21, "9653A270-484C-404E-9C88-6460D266C857", 21, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "ABIGAIL", "44", "18" ]
+, [ 22, "A34509CD-AF88-470D-A48C-183780A8EE4C", 22, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "ANIYAH", "43", "19" ]
+, [ 23, "F81F9C42-52F6-4859-A239-FD06C98D8121", 23, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "SERENITY", "43", "19" ]
+, [ 24, "548E2DA0-8792-4FA6-928E-BF9E4126F4B3", 24, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "MIA", "42", "20" ]
+, [ 25, "F55F1069-C320-4F46-850C-26B2962E8694", 25, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "JASMINE", "40", "21" ]
+, [ 26, "0F67A389-C0BC-43B0-AAF9-5B6A83769817", 26, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "LEAH", "40", "21" ]
+, [ 27, "F45785EB-EA6B-4351-AB29-E250AFC6C065", 27, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "JADE", "39", "22" ]
+, [ 28, "1CCA8FCD-37CB-4AA4-B89C-33DBED910169", 28, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "VICTORIA", "39", "22" ]
+, [ 29, "5722638D-8403-4399-AE86-CAF202BD3624", 29, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "SARAH", "38", "23" ]
+, [ 30, "BF54F83B-1140-4E36-A6FF-C9CF6B33D6BD", 30, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "AVA", "36", "24" ]
+, [ 31, "39F45D3F-1358-4DDC-B01A-D566DDFFC475", 31, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "CHELSEA", "36", "24" ]
+, [ 32, "1A547804-C007-4485-B781-B921E4163F35", 32, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "KHLOE", "36", "24" ]
+, [ 33, "E2EEC04F-AB2C-4ADD-B560-7669391912C6", 33, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "ASHLEY", "35", "25" ]
+, [ 34, "E2A64BDC-EFCA-4138-A018-4A87475F1031", 34, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "KIMORA", "35", "25" ]
+, [ 35, "D3B9BE83-F89F-4727-83A9-516DB089ED9E", 35, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "MORGAN", "35", "25" ]
+, [ 36, "4F8305E0-DFF0-4CBB-9F88-F6ED5FBE5F2A", 36, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "NAOMI", "35", "25" ]
+, [ 37, "92AE9670-E1AA-44A0-990C-1AC9DE442005", 37, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "IMANI", "34", "26" ]
+, [ 38, "1491D25F-0833-489C-B6BE-086C45E49CE3", 38, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "ZOE", "34", "26" ]
+, [ 39, "23BCDDF5-D86D-4A06-9CC3-B012D6C598C6", 39, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "SAVANNAH", "32", "27" ]
+, [ 40, "7A2CD4AE-5051-4816-B664-550A241CA0DD", 40, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "AMELIA", "31", "28" ]
+, [ 41, "0532C5A5-3E4C-4F58-835B-C0E4F8C8F451", 41, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "MARIAM", "31", "28" ]
+, [ 42, "78E61AFA-872D-4330-AF67-57FA229CE458", 42, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "ARIEL", "30", "29" ]
+, [ 43, "150CC5BF-2431-4245-AE67-47B1DAF3166C", 43, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "MYA", "29", "30" ]
+, [ 44, "DBE5ECA7-2A17-44D9-8861-0D17E612380B", 44, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "NYLAH", "29", "30" ]
+, [ 45, "2C5A5C44-1F92-4165-8389-3710532004B2", 45, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "AMANI", "28", "31" ]
+, [ 46, "BAEF7BAA-BB74-48F1-BFF8-0F37031F9671", 46, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "NYLA", "28", "31" ]
+, [ 47, "79E32123-8F26-42BC-AC2C-262605E5BD7E", 47, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "ALANA", "27", "32" ]
+, [ 48, "8F75CE7A-6BE9-433C-B40F-3F19EDAAA928", 48, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "FAITH", "27", "32" ]
+, [ 49, "C8799BF7-FD08-42C0-89D4-792C8131CE07", 49, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "GABRIELLA", "26", "33" ]
+, [ 50, "2FE4CBA6-BD00-41D1-9CCA-A6BAA76DFFFC", 50, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "LAYLA", "26", "33" ]
+, [ 51, "77ADA6E6-165D-43BC-B67F-054795120DCB", 51, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "AMINATA", "25", "34" ]
+, [ 52, "AE9A3F30-C1FA-4EE9-827F-E4BD50967900", 52, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "ELIZABETH", "25", "34" ]
+, [ 53, "D7DAB4B1-AF65-4636-98DA-A2DE14812F16", 53, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "HAILEY", "25", "34" ]
+, [ 54, "EAAE77C2-234F-4A38-983D-B4375F6C460D", 54, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "HEAVEN", "25", "34" ]
+, [ 55, "E729E1CB-8455-4C41-B5F6-197AD7EB71BE", 55, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "MIKAYLA", "25", "34" ]
+, [ 56, "7A9110BF-6AAF-4C09-A000-9A6B3C738B2C", 56, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "SANAA", "25", "34" ]
+, [ 57, "ACBD6A6B-E8E2-47ED-80A2-890A6E8118BE", 57, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "SASHA", "25", "34" ]
+, [ 58, "DEED0486-A347-4569-9348-51670D3DCE31", 58, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "SYDNEY", "25", "34" ]
+, [ 59, "8D20954A-2DE6-4FD2-9E0F-9C72E4881D1E", 59, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "ANIYA", "24", "35" ]
+, [ 60, "40E9B2F0-9392-49C1-BD88-9860BCFF64AD", 60, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "DANIELLE", "24", "35" ]
+, [ 61, "9537EF1A-3D9A-420B-AD50-576D0B7DC882", 61, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "EMILY", "24", "35" ]
+, [ 62, "B22D9793-39EE-4ED8-9E00-3E6095776C95", 62, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "ISABELLA", "24", "35" ]
+, [ 63, "726E62F3-D64E-4244-A131-16C7B4ECD336", 63, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "SANAI", "24", "35" ]
+, [ 64, "7B4C243A-982A-43E1-891A-24178BE2A92C", 64, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "ALIYAH", "23", "36" ]
+, [ 65, "CC6EA7FD-B9AD-4665-9C8F-1E0FDC362EC9", 65, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "AUTUMN", "23", "36" ]
+, [ 66, "E89E5E11-D806-429F-B0A0-A66BD129DE3A", 66, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "MARIAH", "23", "36" ]
+, [ 67, "255744BD-AFC6-4ADE-9FAB-04302448DB7A", 67, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "MAYA", "23", "36" ]
+, [ 68, "E5849B0B-D887-42D3-A2C3-0F4846131EE5", 68, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "MICHELLE", "23", "36" ]
+, [ 69, "0C7EAC82-28CB-4FA5-B3AA-FED15F12E766", 69, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "SAMANTHA", "23", "36" ]
+, [ 70, "2A449155-5EDB-40A2-89C8-79CAA3B1D886", 70, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "AMAYA", "22", "37" ]
+, [ 71, "81D9A4E0-4D93-46A6-954D-93E48AA812DC", 71, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "ANAYA", "22", "37" ]
+, [ 72, "091F04C8-11AE-485E-B284-4F4D720621A0", 72, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "GENESIS", "22", "37" ]
+, [ 73, "0CD8F917-2EEE-4702-874D-F6ED86D1F951", 73, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "JAYDA", "22", "37" ]
+, [ 74, "DDB8F344-A059-42BB-A164-E4A034539677", 74, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "LAUREN", "22", "37" ]
+, [ 75, "FEF8538C-85F7-4AB3-A032-2D8791684D36", 75, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "MEGAN", "22", "37" ]
+, [ 76, "1D2CB55C-A1A5-4896-BA60-82C5512FD7E3", 76, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "TAMIA", "22", "37" ]
+, [ 77, "77B5FA66-4123-4BC3-B880-227E644F0367", 77, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "AMIRA", "21", "38" ]
+, [ 78, "A0A2B6FC-5B40-4132-9A41-98C86C011B4D", 78, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "BRIELLE", "21", "38" ]
+, [ 79, "3AC4E59F-779D-4F3C-A34B-17602B8DEA68", 79, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "MILAN", "21", "38" ]
+, [ 80, "7D1E84AA-786F-4ADC-8840-1C4422B1A575", 80, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "RIHANNA", "21", "38" ]
+, [ 81, "F82B708A-1942-4B94-944F-0AA70F2A29E6", 81, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "SANIYAH", "21", "38" ]
+, [ 82, "6DA0B826-30B2-4734-8F73-E27329B3140C", 82, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "KAYLEE", "20", "39" ]
+, [ 83, "FD9FB711-0F97-452F-B988-32DF5598B4E6", 83, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "MALIYAH", "20", "39" ]
+, [ 84, "AB1C7701-2387-4461-A3A8-FBCAA1474235", 84, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "MARIAMA", "20", "39" ]
+, [ 85, "F42C19C5-2A1A-41CE-9CC4-D25D73B646C5", 85, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "PAIGE", "20", "39" ]
+, [ 86, "4C861417-787A-418E-B66E-78EE38AF6F5E", 86, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "AMIYAH", "19", "40" ]
+, [ 87, "D5E4427F-6EEB-4B54-ACAD-7288FBA8AF79", 87, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "ANGEL", "19", "40" ]
+, [ 88, "46FE6312-D651-4CEA-AA90-78657833261E", 88, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "JAZMINE", "19", "40" ]
+, [ 89, "5164A449-A70E-436C-9139-038F18940A32", 89, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "KENNEDY", "19", "40" ]
+, [ 90, "B6A01C27-0187-4B49-AFBC-06E9FEC5B926", 90, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "TIANA", "19", "40" ]
+, [ 91, "8A3E5C91-ED39-4E47-BE5B-16BFB1599419", 91, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "ALEXIS", "18", "41" ]
+, [ 92, "458E9052-62ED-4DE3-9699-FF057D6B3F06", 92, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "ARIANA", "18", "41" ]
+, [ 93, "750D9496-D95C-4A37-AFBF-2EE1D2BB84E3", 93, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "HAWA", "18", "41" ]
+, [ 94, "25059338-07DD-4E7D-8A7D-9CCF665EFE85", 94, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "JANIYAH", "18", "41" ]
+, [ 95, "6F68E8FF-B18D-4B95-A750-3EF1D0A86FCB", 95, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "SKYLAR", "18", "41" ]
+, [ 96, "3B0E8397-342D-4D8A-BE12-CA196A5F5400", 96, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "TRINITY", "18", "41" ]
+, [ 97, "91379A42-8DE7-4BB0-A385-428E1ADA10E1", 97, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "DIAMOND", "17", "42" ]
+, [ 98, "8DA6DBD1-BD8F-4FAC-9138-793CD2D28A02", 98, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "EMMA", "17", "42" ]
+, [ 99, "D4804B57-B70B-46B3-BD7E-05DEE289E7DE", 99, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "JANIYA", "17", "42" ]
+, [ 100, "B50F7F62-2EC1-4CF7-82EA-9E5C74ADB73D", 100, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "JESSICA", "17", "42" ]
+, [ 101, "F56BF6EC-313A-4529-A8B0-09117DC4522D", 101, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "SOPHIA", "17", "42" ]
+, [ 102, "1B707081-2127-4A96-9455-10137AB0F5DA", 102, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "TORI", "17", "42" ]
+, [ 103, "E9D0DB58-2061-4A50-82A1-E0E460EDA205", 103, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "AMBER", "16", "43" ]
+, [ 104, "A0C0123F-3E77-4AEE-95A0-3373563EC7A3", 104, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "BRIANA", "16", "43" ]
+, [ 105, "063B8C97-2DE8-45C9-A46D-4E637B637EF5", 105, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "FATIMA", "16", "43" ]
+, [ 106, "C3A1B5B4-FF16-45EF-A33F-5FEC270FBFC5", 106, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "GRACE", "16", "43" ]
+, [ 107, "1301E590-D326-4D51-B977-6CE1D3073223", 107, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "KAITLYN", "16", "43" ]
+, [ 108, "8F93951C-F975-479A-B33A-4DD2A3D54373", 108, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "MIRACLE", "16", "43" ]
+, [ 109, "63FCD86B-C2EA-48D2-9354-7891B9CC4308", 109, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "PEYTON", "16", "43" ]
+, [ 110, "9D6CCE67-934E-4B0B-887A-B10F321A71CE", 110, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "SUMMER", "16", "43" ]
+, [ 111, "0A174E32-ED16-4772-8416-B9F4F030881C", 111, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "TALIYAH", "16", "43" ]
+, [ 112, "B49D200E-7E05-402F-9528-E14045305CD2", 112, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "TIANNA", "16", "43" ]
+, [ 113, "E89EE3FA-68D4-4B75-B82C-32FEBDAF5AF7", 113, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "ALICIA", "15", "44" ]
+, [ 114, "1DC9D7E6-B780-4439-81D1-724BB2700FBA", 114, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "AMANDA", "15", "44" ]
+, [ 115, "D2D794AF-B929-4447-AE3C-1AC2E912897B", 115, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "AMIRAH", "15", "44" ]
+, [ 116, "D70A251E-D97F-42AB-99E5-8E83A088A75C", 116, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "HARMONY", "15", "44" ]
+, [ 117, "E875A8B8-7CFB-411B-BF10-259D30767FEE", 117, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "KATELYN", "15", "44" ]
+, [ 118, "17D303E4-9998-42C8-B4A7-224CB5EB432C", 118, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "KIARA", "15", "44" ]
+, [ 119, "F4AF59F2-73A8-48F7-BFBA-D9F77E2EE790", 119, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "KYLIE", "15", "44" ]
+, [ 120, "A5B0881D-A93B-4F32-994A-FC38A96ADC55", 120, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "OUMOU", "15", "44" ]
+, [ 121, "F90BC6F1-7EC2-4F65-9DD3-E552089FC4EE", 121, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "SANIYA", "15", "44" ]
+, [ 122, "1A277762-AA61-4235-8DAE-60DF9DAC7DDC", 122, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "SHANIA", "15", "44" ]
+, [ 123, "B6CED655-85C0-41D5-8189-50874D29C279", 123, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "SKYE", "15", "44" ]
+, [ 124, "27CC1A15-DE9E-4AD7-AB7C-FC3C81FFE364", 124, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "TIFFANY", "15", "44" ]
+, [ 125, "430576FA-FEAA-4FF7-841F-0A9CB0CBF2F1", 125, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "ANGELINA", "14", "45" ]
+, [ 126, "3F7D4B71-90F3-44D8-8FA9-2959F3476A67", 126, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "BINTOU", "14", "45" ]
+, [ 127, "66E15F8E-B18F-412D-AFE2-886F60A5D9EA", 127, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "DAKOTA", "14", "45" ]
+, [ 128, "48A94D08-2781-4D8E-AAF7-2E27B67206C3", 128, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "ESSENCE", "14", "45" ]
+, [ 129, "F74A987E-0E46-47BB-9BD2-C9E3F050701E", 129, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "PARIS", "14", "45" ]
+, [ 130, "4BEB4EEA-4B62-4A7A-A0D6-9D775537A4DE", 130, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "PRINCESS", "14", "45" ]
+, [ 131, "E750BCED-A8B8-4375-92B5-5F136F418C97", 131, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "SKYLA", "14", "45" ]
+, [ 132, "D5A0FF56-753D-44A8-A965-05C4462E73D0", 132, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "AMINA", "13", "46" ]
+, [ 133, "2A774780-D6D8-4E6A-ACD5-3F27E04DDE5E", 133, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "CHRISTINA", "13", "46" ]
+, [ 134, "D0FAB813-D1E5-4D19-B4B7-E08602435C36", 134, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "ERIN", "13", "46" ]
+, [ 135, "500F98CA-702B-454F-9B10-AD34083753C5", 135, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "HANNAH", "13", "46" ]
+, [ 136, "5D586BBF-6B64-4FC2-91B5-C3ED4031458C", 136, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "JANELLE", "13", "46" ]
+, [ 137, "4CCC3A53-5C26-4E91-B783-94203AD4A150", 137, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "JORDYN", "13", "46" ]
+, [ 138, "CC44E989-A92E-4D56-90D4-545A37184BC6", 138, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "AISHA", "12", "47" ]
+, [ 139, "8BADC6C3-7EA3-4CF6-9751-60CD65F03DD3", 139, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "AISSATOU", "12", "47" ]
+, [ 140, "8C5B52FB-D26D-4B88-9ACB-93BED5058211", 140, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "ARIELLE", "12", "47" ]
+, [ 141, "391C33E0-087D-4AAA-A4D3-348B40CF8FAE", 141, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "BREANNA", "12", "47" ]
+, [ 142, "E58F655A-2B1B-4C95-9437-AD56E2F083B3", 142, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "CHANEL", "12", "47" ]
+, [ 143, "F392AA1F-B846-412E-BC1E-1875F7DF208B", 143, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "COURTNEY", "12", "47" ]
+, [ 144, "94E55125-B59D-4BBE-98AB-A4BED010D678", 144, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "JANAE", "12", "47" ]
+, [ 145, "CEB329CD-C0E1-4F10-859E-CFEA0D3D2FA1", 145, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "JOLIE", "12", "47" ]
+, [ 146, "27790BC2-A3C9-4693-8F58-EACDF90B7D98", 146, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "KADIATOU", "12", "47" ]
+, [ 147, "79E09A7A-80D7-438D-B984-12A52E420847", 147, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "KALIYAH", "12", "47" ]
+, [ 148, "9353B2CF-C665-4A54-8A34-12069A2305E6", 148, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "KYLA", "12", "47" ]
+, [ 149, "E3EE1A04-99E5-40D0-BF9B-68D0DC1F0647", 149, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "MADISYN", "12", "47" ]
+, [ 150, "5F90A861-E268-4A8C-B967-63324DC8289C", 150, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "MELISSA", "12", "47" ]
+, [ 151, "7ECE94E7-9EA9-414F-8D17-5E928B6B1D00", 151, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "PRECIOUS", "12", "47" ]
+, [ 152, "AE9539C8-B206-4EC9-8930-0C45CD8704B8", 152, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "SADE", "12", "47" ]
+, [ 153, "C14FF6D6-160A-4961-8FC3-D5BE664F53BA", 153, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "SARAI", "12", "47" ]
+, [ 154, "CFB0052B-77D0-487D-B7F5-BF94EAAC6EEC", 154, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "SHANIYA", "12", "47" ]
+, [ 155, "395A9060-9156-4A1D-A32B-BF8D26FC27C5", 155, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "ZARIAH", "12", "47" ]
+, [ 156, "E9137B1D-D303-4FEE-B780-EE364A8EE98C", 156, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "AMIYA", "11", "48" ]
+, [ 157, "8CCBB543-6C84-4265-A4FE-F951FC3E691C", 157, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "BIANCA", "11", "48" ]
+, [ 158, "915B1A8A-434B-4F69-8E1F-B974FFF5C5FA", 158, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "BROOKE", "11", "48" ]
+, [ 159, "50110727-C536-4B33-9655-2586B3323BC8", 159, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "CAMILLE", "11", "48" ]
+, [ 160, "FF140B15-1DE5-4141-9A41-B0A42B55013C", 160, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "ESTHER", "11", "48" ]
+, [ 161, "13AC3ED8-A791-49B8-8036-B798849A9410", 161, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "JORDAN", "11", "48" ]
+, [ 162, "1B3252AF-1859-4670-B2C5-7E0F22F01637", 162, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "LEILA", "11", "48" ]
+, [ 163, "D9A77D85-9226-45D6-814C-6DF995D2B888", 163, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "LEILANI", "11", "48" ]
+, [ 164, "7599F5CA-DC0D-4962-BD3B-F00CE9E149DF", 164, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "LONDYN", "11", "48" ]
+, [ 165, "C90AA8B7-DF4B-4796-9117-E3F516968984", 165, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "MCKENZIE", "11", "48" ]
+, [ 166, "0522460D-47DC-4F65-8C0A-8DA2939A22C1", 166, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "RACHEL", "11", "48" ]
+, [ 167, "7820336B-F398-480B-8AC4-03D492C4D401", 167, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "SAMARA", "11", "48" ]
+, [ 168, "0E22677C-54FF-4686-B935-2AAACB80052F", 168, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "SHAYLA", "11", "48" ]
+, [ 169, "F5854928-1F35-4233-91F8-73F639347B29", 169, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "SIDNEY", "11", "48" ]
+, [ 170, "282377F6-62B9-42B1-8778-25FE9CD1922C", 170, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "ZANIYAH", "11", "48" ]
+, [ 171, "A3E52E83-F97A-4CCB-AE58-635BECCD394D", 171, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "ALEXA", "10", "49" ]
+, [ 172, "D16567FB-E01F-4294-B4B4-697E2DE92E8D", 172, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "AYANNA", "10", "49" ]
+, [ 173, "63BF0CDB-E76A-4ED9-9A67-F9853F974687", 173, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "CHEYENNE", "10", "49" ]
+, [ 174, "CBF20DBB-B01B-4375-A12E-95D7DC06ADF2", 174, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "GLORIA", "10", "49" ]
+, [ 175, "7154060A-1564-45AD-9192-5C480FDFCFF8", 175, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "ISIS", "10", "49" ]
+, [ 176, "12DDDA2C-7885-4B02-9912-74AE48CCDBC4", 176, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "JOHANNA", "10", "49" ]
+, [ 177, "D28D106E-D6AB-41FD-966E-B3ABB7787BAE", 177, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "KELSEY", "10", "49" ]
+, [ 178, "D3DA61E0-9948-41E9-8432-F64605C4D85C", 178, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "KENYA", "10", "49" ]
+, [ 179, "54875850-A24A-4569-BC1B-4D3A14F8E477", 179, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "MALEAH", "10", "49" ]
+, [ 180, "19F86F35-4191-4E31-A7A5-A3DE39F4E034", 180, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "MARLEY", "10", "49" ]
+, [ 181, "5ABC086C-7FC4-4494-BD49-8B5DCDA731F0", 181, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "SAGE", "10", "49" ]
+, [ 182, "9F2CB6BC-C973-450B-9FBC-AC32C2EE3866", 182, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "SARIAH", "10", "49" ]
+, [ 183, "449E1771-299C-416A-8D27-EA1ED8A506A3", 183, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "TATIANA", "10", "49" ]
+, [ 184, "1F1B179A-82FE-44BC-B06F-22DF4EC150D5", 184, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "TIARA", "10", "49" ]
+, [ 185, "CE4FEA05-3B29-46F1-9176-CF99CD363886", 185, 1317921829, "392904", 1317921829, "392904", "{\n}", "2009", "FEMALE", "BLACK NON HISPANIC", "ZOEY", "10", "49" ]
+ ]
+}
