@@ -14,7 +14,7 @@ The .JSON file provided by New York City was not immediately amenable to visuali
 
 I had to hack at the x and y scales to display the data. If possible I would like to make those elements more elegant.
 
-This project is also posted on my personal website[http://www.matthewsaidel.com].
+This project is also posted on my personal [website](http://www.matthewsaidel.com).
 
 
 TODO
